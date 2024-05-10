@@ -7,10 +7,10 @@
 
 <br>
 
-<img src="images/website.svg" style="height:25px; width:25px; margin-right: 20px">
-<img src="images/youtube.svg" style="height:25px; width:25px; margin-right: 20px">
-<img src="images/facebook.svg" style="height:25px; width:25px; margin-right: 20px">
-<img src="images/linkedin.svg" style="height:25px; width:25px; margin-right: 20px">
+<a href="#"><img src="images/website.svg" style="height:25px; width:25px; margin-right: 20px"></a>
+<a href="#"><img src="images/youtube.svg" style="height:25px; width:25px; margin-right: 20px"></a>
+<a href="#"><img src="images/facebook.svg" style="height:25px; width:25px; margin-right: 20px"></a>
+<a href="#"><img src="images/linkedin.svg" style="height:25px; width:25px; margin-right: 20px"></a>
 
 <br>
 
