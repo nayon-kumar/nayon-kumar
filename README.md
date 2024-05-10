@@ -1,4 +1,4 @@
-<img src="images/nayon.JPG">
+<img src="images/background.jpg">
 
 ## 👋 Hello, I am Sree Nayon Kumar Pal
 <hr>
