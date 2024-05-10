@@ -44,3 +44,24 @@
 - MS Word
 - MS Excel
 - MS powerpoint
+
+#### 👨🏻‍🎓 Education
+1. B.Sc. in Computer Science & Engineering
+<br> Green University of Bangladesh
+2. HSC
+<br> Dhopapara Memorial Degree College
+3. SSC
+<br> Jhalmolia High School
+
+##### Languages :
+- Bangla (Native)
+- English
+
+##### Sports / Game / Activities / Hobby :
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+<hr>
+Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal @2024
+<hr>
