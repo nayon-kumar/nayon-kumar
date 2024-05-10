@@ -3,7 +3,7 @@
 ## 👋 Hello, I am Sree Nayon Kumar Pal
 <hr>
 <p>I am a student of Green University of Bangladesh</p>
-<p>🏠 Tampere, Dhaka</p>
+<p>🏠 Mirpur, Dhaka</p>
 
 <br>
 
