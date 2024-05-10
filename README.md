@@ -22,6 +22,8 @@
 
 #### My Skills :
 
+<br>
+
 <a href="#"><img src="images/html5.svg" style="height:25px; width:25px; margin-right: 20px"></a>
 <a href="#"><img src="images/css3.svg" style="height:25px; width:25px; margin-right: 20px"></a>
 <a href="#"><img src="images/bootstrap.svg" style="height:25px; width:25px; margin-right: 20px"></a>
