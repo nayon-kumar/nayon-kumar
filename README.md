@@ -4,6 +4,11 @@
 <h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
 <p>I am a student of Green University of Bangladesh</p>
 <p>🏠 Living : Mirpur, Dhaka</p>
+<br>
+
+### 👨‍🏫 About Me
+
+<P>I am Sree Nayon Kumar Pal. I have completed my HSC examination from Dhopapara Memorial Degree College in 2020 and I have completed my SSC examination from  Jhalmolia High School in 2018. Now I am a student of Green University of Bangladeh department of Computer Science and Engineering.</p>
 
 <br>
 
@@ -12,12 +17,6 @@
 <br>
 <a href="https://www.facebook.com/nayon108789"><img style="width:50px;" alt="Facebook" src="images/facebook.svg"></a>
 <a href="https://www.linkedin.com/in/nayon1512628148"><img style="height:50px; width:50px;" alt="Linkedin" src="images/linkedin.svg"></a>
-<br>
-
-### 👨‍🏫 About Me
-
-<P>I am Sree Nayon Kumar Pal. I have completed my HSC examination from Dhopapara Memorial Degree College in 2020 and I have completed my SSC examination from  Jhalmolia High School in 2018. Now I am a student of Green University of Bangladeh department of Computer Science and Engineering.</p>
-
 <br>
 
 ### My Skills :
