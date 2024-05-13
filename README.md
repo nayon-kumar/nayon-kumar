@@ -7,7 +7,8 @@
 
 <br>
 
-<a href="https://www.facebook.com/nayon108789"><img style="width:50;" alt="Facebook" src="images/facebook.svg"></a><a href="https://www.linkedin.com/in/nayon1512628148"><img style="width:50;" alt="Linkedin" src="images/linkedin.svg"></a>
+<a href="https://www.facebook.com/nayon108789"><img style="width:50px;" alt="Facebook" src="images/facebook.svg"></a>
+<a href="https://www.linkedin.com/in/nayon1512628148"><img style="height:50px; width:50px;" alt="Linkedin" src="images/linkedin.svg"></a>
 
 <br>
 
