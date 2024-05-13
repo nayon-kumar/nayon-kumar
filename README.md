@@ -7,8 +7,8 @@
 
 <br>
 
-<a href="https://www.facebook.com/nayon108789"><img width="60" alt="Facebook" src="images/facebook.svg"></a>
-<a href="https://www.linkedin.com/in/nayon1512628148/"><img width="25" alt="Linkedin" src="images/linkedin.svg"></a>
+<a href="https://www.facebook.com/nayon108789"><img width="50" alt="Facebook" src="images/facebook.svg"></a>
+<a href="https://www.linkedin.com/in/nayon1512628148/"><img width="50" alt="Linkedin" src="images/linkedin.svg"></a>
 
 <br>
 
@@ -22,12 +22,12 @@
 
 <br>
 
-<a href="#"><img src="images/html5.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/css3.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/c.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/c++.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/java.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/mysql.svg" style="height:25px; width:25px; margin-right: 20px"></a>
+<a href="#"><img src="images/html5.svg" style="height:50px; margin-right: 20px"></a>
+<a href="#"><img src="images/css3.svg" style="height:50px; margin-right: 20px"></a>
+<a href="#"><img src="images/c.svg" style="height:50px; margin-right: 20px"></a>
+<a href="#"><img src="images/c++.svg" style="height:50px; margin-right: 20px"></a>
+<a href="#"><img src="images/java.svg" style="height:50px; margin-right: 20px"></a>
+<a href="#"><img src="images/mysql.svg" style="height:50px; margin-right: 20px"></a>
 
 <br>
 
