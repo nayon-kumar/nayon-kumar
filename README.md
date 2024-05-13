@@ -7,9 +7,7 @@
 
 <br>
 
-<a href="#"><img width="30" alt="Websit" src="images/website.svg"></a>
-<a href="#"><img width="30" alt="YouTube" src="images/youtube.svg"></a>
-<a href="https://www.facebook.com/nayon108789"><img width="25" alt="Facebook" src="images/facebook.svg"></a>
+<a href="https://www.facebook.com/nayon108789"><img width="60" alt="Facebook" src="images/facebook.svg"></a>
 <a href="https://www.linkedin.com/in/nayon1512628148/"><img width="25" alt="Linkedin" src="images/linkedin.svg"></a>
 
 <br>
