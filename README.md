@@ -32,11 +32,11 @@
 <br>
 
 #### Other Skills
-- Problem Solving
-- Linux
-- MS Word
-- MS Excel
-- MS powerpoint
+- 💡 Problem Solving
+- 🐧 Linux
+- 📄 MS Word
+- 𝄜 MS Excel
+- 📊 MS powerpoint
 
 ### 👨🏻‍🎓 Education
 1. B.Sc. in Computer Science & Engineering
