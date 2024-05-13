@@ -1,3 +1,4 @@
+<hr>
 <img src="images/background.png">
 
 <h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
@@ -14,13 +15,13 @@
 
 <br>
 
-#### 👨‍🏫 About Me
+### 👨‍🏫 About Me
 
 <P>I am Sree Nayon Kumar Pal. I have completed my HSC examination from Dhopapara Memorial Degree College in 2020 and I have completed my SSC examination from  Jhalmolia High School in 2018. Now I am a student of Green University of Bangladeh department of Computer Science and Engineering.</p>
 
 <br>
 
-#### My Skills :
+### My Skills :
 
 <br>
 
@@ -33,14 +34,14 @@
 
 <br>
 
-##### Other Skills
+#### Other Skills
 - Problem Solving
 - Linux
 - MS Word
 - MS Excel
 - MS powerpoint
 
-#### 👨🏻‍🎓 Education
+### 👨🏻‍🎓 Education
 1. B.Sc. in Computer Science & Engineering
 <br> Green University of Bangladesh
 2. HSC
@@ -48,11 +49,11 @@
 3. SSC
 <br> Jhalmolia High School
 
-##### Languages :
+#### Languages :
 - Bangla (Native)
 - English
 
-##### Sports / Game / Activities / Hobby :
+#### Sports / Game / Activities / Hobby :
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
