@@ -1,6 +1,6 @@
 <img src="images/background.png">
 
-## 👋 Hello, I am Sree Nayon Kumar Pal
+<h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
 <hr>
 <p>I am a student of Green University of Bangladesh</p>
 <p>🏠 Mirpur, Dhaka</p>
