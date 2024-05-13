@@ -2,16 +2,15 @@
 <img src="images/background.png">
 
 <h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
-<hr>
 <p>I am a student of Green University of Bangladesh</p>
 <p>🏠 Mirpur, Dhaka</p>
 
 <br>
 
-<a href="#"><img src="images/website.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="#"><img src="images/youtube.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="https://www.facebook.com/nayon108789"><img src="images/facebook.svg" style="height:25px; width:25px; margin-right: 20px"></a>
-<a href="https://www.linkedin.com/in/nayon1512628148/"><img src="images/linkedin.svg" style="height:25px; width:25px; margin-right: 20px"></a>
+<a href="#"><img width="30" alt="Websit" src="images/website.svg"></a>
+<a href="#"><img width="30" alt="YouTube" src="images/youtube.svg"></a>
+<a href="https://www.facebook.com/nayon108789"><img width="25" alt="Facebook" src="images/facebook.svg"></a>
+<a href="https://www.linkedin.com/in/nayon1512628148/"><img width="25" alt="Linkedin" src="images/linkedin.svg"></a>
 
 <br>
 
