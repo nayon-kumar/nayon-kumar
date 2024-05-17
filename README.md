@@ -1,4 +1,4 @@
-<hr>
+<img src="images/hr.gif">
 <img src="images/background.png">
 
 <h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
