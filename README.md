@@ -51,11 +51,6 @@
 - Bangla (Native)
 - English
 
-#### Sports / Game / Activities / Hobby :
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
 <hr>
-Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal @2024
+Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal @2025
 <hr>
