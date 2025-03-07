@@ -37,7 +37,7 @@
 - 🐧 Linux
 - 📄 MS Word
 - 𝄜 MS Excel
-- 📊 MS powerpoint
+- 📊 MS PowerPoint
 
 ### 👨🏻‍🎓 Education
 1. B.Sc. in Computer Science & Engineering
