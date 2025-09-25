@@ -33,11 +33,9 @@
 <br>
 
 #### Other Skills
+- 💻 Competitive Programming
 - 💡 Problem Solving
 - 🐧 Linux
-- 📄 MS Word
-- 𝄜 MS Excel
-- 📊 MS PowerPoint
 
 ### 👨🏻‍🎓 Education
 1. B.Sc. in Computer Science & Engineering
