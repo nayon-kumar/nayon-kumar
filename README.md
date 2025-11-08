@@ -28,6 +28,7 @@
 <a href="#"><img src="images/c++.svg" alt="C++" style="height:50px; margin-right: 20px;"></a>
 <a href="#"><img src="images/java.svg" alt="Java" style="height:50px; margin-right: 20px"></a>
 <a href="#"><img src="images/mysql.svg" style="height:50px; width:50px; margin-right: 20px;"></a>
+<a href="#"><img src="images/react.png" style="height:50px; width:50px; margin-right: 20px;"></a>
 
 
 <br>
