@@ -48,8 +48,8 @@
 <br> Jhalmolia High School
 
 #### Languages :
+- English (Comfortable)
 - Bangla (Native)
-- English
 
 <hr>
 Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal @2025
