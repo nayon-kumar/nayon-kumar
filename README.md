@@ -7,7 +7,8 @@
 
 ### 👨‍🏫 About Me
 
-<P>I am Sree Nayon Kumar Pal. I have completed my HSC examination from Dhopapara Memorial Degree College in 2020 and I have completed my SSC examination from  Jhalmolia High School in 2018. Now I am a student of Green University of Bangladeh department of Computer Science and Engineering.</p>
+<P> I am Nayon. I am a Frontend Developer. I have hands-on experience with modern web development technologies including HTML, CSS, Tailwind CSS, JavaScript, git, github and React.js. I’ve completed some projects. These projects helped me understand responsive design, debugging, optimization, error fixing and improveing user-experience. I’m a self-motivated learner. I always enjoy learning new technologies, solving real-world problems, and improving myself step by step. My goal is to become a Frontend Developer and eventually grow into a full-stack developer.</p>
+<P>I am always open to new opportunities to contribute, learn, and grow. If you think I could be a good fit for your team, then you can contact with me.</p>
 
 <br>
 
