@@ -7,7 +7,7 @@
 
 ### 👨‍🏫 About Me
 
-<P> I am Nayon. I am a Frontend Developer. I have hands-on experience with modern web development technologies including <b>HTML, CSS, Tailwind CSS, JavaScript, git, github</b> and <b>React.js</b>. I’ve completed some projects. These projects helped me understand responsive design, debugging, optimization, error fixing and improveing user-experience. I’m a self-motivated learner. I always enjoy learning new technologies, solving real-world problems, and improving myself step by step. My goal is to become a Frontend Developer and eventually grow into a full-stack developer.</p>
+<P> I am Nayon. I am a Frontend Developer. I have hands-on experience with modern web development technologies including <b>HTML, CSS, Tailwind CSS, JavaScript, Git, GitHub</b> and <b>React.js</b>. I’ve completed some projects. These projects helped me understand responsive design, debugging, optimization, error fixing and improveing user-experience. I’m a self-motivated learner. I always enjoy learning new technologies, solving real-world problems, and improving myself step by step. My goal is to become a Frontend Developer and eventually grow into a full-stack developer.</p>
 <P>I am always open to new opportunities to contribute, learn, and grow. If you think I could be a good fit for your team, then you can contact with me.</p>
 
 <br>
