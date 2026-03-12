@@ -54,5 +54,5 @@
 - Bangla (Native)
 
 <hr>
-Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal @2026
+Thanks for going through my Portfolio. All rights reserved by Sree Nayon Kumar Pal
 <hr>
