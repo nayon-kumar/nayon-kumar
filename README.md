@@ -1,7 +1,7 @@
 <img src="images/hr.gif">
 <img src="images/background.png">
 
-<h2 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h2>
+<h3 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h3>
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E3)&nbsp;
 
-## 👋 Connect with me
+## 👋 Connect With Me
 
 [![images](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)](mailto:nayon.cse55@gmail.com)
 [![images](https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/nayon-kumar/)
