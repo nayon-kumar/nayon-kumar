@@ -12,6 +12,7 @@
 ## 🛠️ My Skills
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)
@@ -30,6 +31,7 @@
 ![DaisyUI](https://img.shields.io/badge/daisyui-05122A?style=flat&logo=daisyui&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E3)&nbsp;
+![Vite](https://img.shields.io/badge/vite-05122A?style=flat&logo=vite&logoColor=white)&nbsp;
 
 ## 👋 Connect With Me
 
