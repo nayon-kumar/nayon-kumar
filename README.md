@@ -1,7 +1,7 @@
 <img src="images/hr.gif">
 <img src="images/background.png">
 
-<h3 align="center"> <img height="25px" src="images/hi.gif"> Hello, I am Sree Nayon Kumar Pal</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
