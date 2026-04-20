@@ -1,7 +1,11 @@
 <img src="images/hr.gif">
 <img src="images/background.png">
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
+
+</div>
 
 ## 👨‍💻 About Me
 
