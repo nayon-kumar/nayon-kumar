@@ -15,6 +15,8 @@
 
 ## 🛠️ My Skills
 
+### Core :
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-05122A?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)
