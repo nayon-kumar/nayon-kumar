@@ -58,7 +58,7 @@
    <br> GPA: 5.0/5.0
 3. SSC | Science | 2018-2020
    <br> Jhalmolia High School
-   <br> 5.0/5.0
+   <br> GPA: 5.0/5.0
 
 ##### Languages :
 
